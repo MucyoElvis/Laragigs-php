@@ -1,0 +1,32 @@
+:root{
+ --bg-danger: rgb(210, 24, 24);
+}
+.bg-danger{
+ background-color: var(--bg-danger);
+}
+.bg-second{
+ background-color: rgb(248, 239, 239);
+}
+button.btn{
+ border: 1px solid white;
+ border-radius: 5px;
+}
+a.btn{
+ border: 1px solid white;
+ border-radius: 5px;
+}
+.container a h1{
+ color: white;
+}
+.container h1 span{
+ color: black;
+}
+footer h2 span{
+ color: black;
+}
+.container #card{
+ background-color: rgb(248, 239, 239);
+}
+/* .container h1{
+ font-size: 4rem;
+} */
